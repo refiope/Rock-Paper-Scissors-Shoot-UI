@@ -1,0 +1,43 @@
+.main {
+  background-color: lightgreen;
+  font-family: fantasy;
+  font-size: 2em;
+  margin-top: 30px;
+  border: 2px solid green;
+}
+
+.title h1{
+  background-color: green;
+  border: 5px solid black;
+}
+
+.info {
+  border-bottom: 1px solid darkgreen;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.button {
+  width: 200px;
+  height: 75px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.announce {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px dotted blue;
+  width: 75%;
+}
+
+.score {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid green;
+  width: 75%;
+}
